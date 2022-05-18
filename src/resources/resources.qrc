@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaft.png</file>
+        <file>bmp.png</file>
+    </qresource>
+</RCC>
